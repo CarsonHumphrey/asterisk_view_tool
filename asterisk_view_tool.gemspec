@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Jordan Hudgens"]
   spec.email         = ["jordan@devcamp.com"]
 
-  spec.summary       = %q{Some gem that may not work but I dont care blah blah blah blah sue me.}
+  spec.summary       = %q{Some gem that may not work.}
   spec.description   = %q{Provides stuff for your Rails app.}
   spec.homepage      = "example.com"
 
